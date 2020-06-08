@@ -1,6 +1,7 @@
 # Pokémon Crystal [![Build Status][travis-badge]][travis]
 
-This is a disassembly of Pokémon Crystal, except this one contains only pokémon from Red, Blue, and Yellow, alongside any evolutions introduced in Gold, Silver, and Crystal.
+This is a disassembly of Pokémon Crystal, except this one contains only pokémon from Red, Blue, and Yellow, alongside any evolutions introduced in Gold, Silver, and Crystal. 
+There are also some bonus changes that I made at like 2 in the morning so I can't really remember what I changed.
 
 It builds the following ROMs:
 
